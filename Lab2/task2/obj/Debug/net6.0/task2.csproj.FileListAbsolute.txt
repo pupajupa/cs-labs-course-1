@@ -1,0 +1,17 @@
+E:\Programming\Lab2\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+E:\Programming\Lab2\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Lab2\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+E:\Programming\Lab2\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+E:\Programming\Lab2\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+E:\Programming\Lab2\task2\bin\Debug\net6.0\task2.exe
+E:\Programming\Lab2\task2\bin\Debug\net6.0\task2.deps.json
+E:\Programming\Lab2\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+E:\Programming\Lab2\task2\bin\Debug\net6.0\task2.dll
+E:\Programming\Lab2\task2\bin\Debug\net6.0\task2.pdb
+E:\Programming\Lab2\task2\bin\Debug\net6.0\AutoMapper.dll
+E:\Programming\Lab2\task2\obj\Debug\net6.0\task2.csproj.CopyComplete
+E:\Programming\Lab2\task2\obj\Debug\net6.0\task2.dll
+E:\Programming\Lab2\task2\obj\Debug\net6.0\refint\task2.dll
+E:\Programming\Lab2\task2\obj\Debug\net6.0\task2.pdb
+E:\Programming\Lab2\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+E:\Programming\Lab2\task2\obj\Debug\net6.0\ref\task2.dll
