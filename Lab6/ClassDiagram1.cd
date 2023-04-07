@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab6.Models.Transport">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Models\Transport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab6.Models.Truck">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAgICAAAAAAAAAAIAAAAAAAAAAAQAAAAABAAAIAAA=</HashCode>
+      <FileName>Models\Truck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab6.Models.SportCar">
+    <Position X="2" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEEAIAAAAAAAAAAAIAAAAAACAAAAQAAAAAAAAAIAAA=</HashCode>
+      <FileName>Models\SportCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab6.Models.PassengerCar">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAIAAAAAAAAAAAIAAAAAAAAAAAQAgAAAAAAAIAAA=</HashCode>
+      <FileName>Models\PassengerCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab6.Models.Motorcycle">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAKAAAAAAAAAAAIAAAAAAAAAAAQAgAAAAAAAIAAA=</HashCode>
+      <FileName>Models\Motorcycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
